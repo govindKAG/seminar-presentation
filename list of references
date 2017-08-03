@@ -1,0 +1,30 @@
+
+# mfcc
+- http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+
+- Davis, S. Mermelstein, P. (1980) Comparison of Parametric Representations for Monosyllabic Word Recognition in Continuously Spoken Sentences. In IEEE Transactions on Acoustics, Speech, and Signal Processing, Vol. 28 No. 4, pp. 357-366
+
+- X. Huang, A. Acero, and H. Hon. Spoken Language Processing: A guide to theory, algorithm, and system development. Prentice Hall, 2001.
+
+# neural synaptic integration
+- http://www.els.net/WileyCDA/ElsArticle/refId-a0000208.html
+
+# corelets
+- http://www.developer.com/lang/other/ibms-corelet-language-programming-like-the-human-brain.html
+
+- quote from an IBM paper
+> “Defining a corelet as a class in an OOP framework grants us encapsulation, inheritance and polymorphism, and dramatically improves the design, structure, modularity, correctness, consistency, compactness and reusability of code,” Modha and a team of IBM researchers wrote in a paper on the language.
+
+- https://www.research.ibm.com/software/IBMResearch/multimedia/IJCNN2013.corelet-language.pdf
+
+# general
+- http://ncs.ethz.ch/pubs/pdf/Indiveri_etal15.pdf
+
+# cnn
+- https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+
+# tidigit dataset
+- https://catalog.ldc.upenn.edu/ldc93s10
+
+# neuromorphic
+- http://www.datascienceassn.org/content/neuromorphic-vs-neural-net
